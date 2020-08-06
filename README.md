@@ -14,20 +14,20 @@ Read my Twine Developer Document [here]().
 
 Twine 1 [here]()
 
-Twine 2 [here]()
+Twine 2 [here]
 
-Twine 3 [here]()
+Twine 3 [here]
 
-Twine 4 [here]()
+Twine 4 [here]
 
-Twine 5 [here]()
+Twine 5 [here]
 
-Twine 6 [here]()
+Twine 6 [here]
 
 ## Prototype
 
-Play the prototype [here]()
+Play the prototype [here]
 
 ## Final Build
 
-Play the final game [here]()
+Play the final game [here]
