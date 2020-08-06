@@ -133,7 +133,7 @@ a:hover {
 
 &lt;&lt;textbox &quot;$name&quot; &quot;&quot;&gt;&gt;
 
-&lt;img src=&quot;https://axchristie.github.io/IASC-1P04/assets/spaceship.jpg&quot;&gt;
+&lt;img src=&quot;https://axchristie.github.io/IASC-1P04/assets/spaceship.jpg&quot; alt=&quot;&#39;Spaceship&#39; by cncphotos is licensed under CC BY-NC-SA 2.0&quot;&gt;
 
 Ready? Let&#39;s [[continue]]</tw-passagedata><tw-passagedata pid="5" name="continue" tags="" position="300,300" size="100,100">&lt;&lt;if $name is &quot;&quot;&gt;&gt;Looks like you forgot to enter your name. You shall not pass!
 
@@ -142,7 +142,13 @@ Ready? Let&#39;s [[continue]]</tw-passagedata><tw-passagedata pid="5" name="cont
 [[Begin game|begin]]
 
 &lt;&lt;/if&gt;&gt;
-&lt;&lt;audio tunes play&gt;&gt;</tw-passagedata><tw-passagedata pid="6" name="nextroom" tags="" position="500,650" size="100,100">This room is strange and filled with spikes, but a bridge takes you to the other side. You cross the bridge and find a mysterious locked door...
+&lt;&lt;audio tunes play&gt;&gt;
+/* &quot;BlakeWave (AestheDuck Mix)&quot;
+by duckett
+
+2019 - Licensed under
+Creative Commons
+Attribution Noncommercial (3.0)*/</tw-passagedata><tw-passagedata pid="6" name="nextroom" tags="" position="500,650" size="100,100">This room is strange and filled with spikes, but a bridge takes you to the other side. You cross the bridge and find a mysterious locked door...
 
 &lt;&lt;if $hasKey is true&gt;&gt;You use the &lt;span id=&quot;key&quot;&gt;&lt;i&gt;key&lt;/i&gt;&lt;/span&gt; to unlock the door and move to the [[next room|winning]].
 
@@ -150,7 +156,7 @@ Ready? Let&#39;s [[continue]]</tw-passagedata><tw-passagedata pid="5" name="cont
 
 &lt;&lt;/if&gt;&gt;</tw-passagedata><tw-passagedata pid="7" name="winning" tags="hooray" position="500,800" size="100,100">Congratulations, $name, you escaped the mysterious maze! You find yourself in a well-lit field of grass with cows nearby.
 
-&lt;img src=&quot;https://axchristie.github.io/IASC-1P04/assets/funky_cloud.jpg&quot;&gt;
+&lt;img src=&quot;https://axchristie.github.io/IASC-1P04/assets/funky_cloud.jpg&quot; alt=&quot;&#39;Funky cloud&#39; by joannapoe is licensed under CC BY-SA 2.0&quot;&gt;
 &lt;&lt;audio tunes fadeout&gt;&gt;</tw-passagedata><tw-passagedata pid="8" name="StoryInit" tags="" position="600,100" size="100,100">&lt;&lt;cacheaudio &quot;tunes&quot; &quot;https://axchristie.github.io/IASC-1P04/assets/BlakeWave.mp3&quot;&gt;&gt;</tw-passagedata></tw-storydata>
 	<script id="script-sugarcube" type="text/javascript">
 	/*! SugarCube JS */
