@@ -16,7 +16,7 @@ Twine 1 [here](weekly_builds/Twine1.html)
 
 Twine 2 [here](weekly_builds/Twine2.html)
 
-Twine 3 [here]
+Twine 3 [here](weekly_builds/Twine3.html)
 
 Twine 4 [here]
 
