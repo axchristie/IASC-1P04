@@ -10,15 +10,15 @@ Black Hole Station is a short adventure game where players explore an abandoned 
 
 Play Black Hole Station [here](final_build/BlackHoleStation.html)
 
-## Prototype
+### Prototype
 
 Play the prototype [here]
 
-## Documentation
+### Documentation
 
 Read my Twine Developer Document [here]().
 
-## Weekly Builds
+### Weekly Builds
 
 Twine 1 [here](weekly_builds/Tutorial1.html)
 
