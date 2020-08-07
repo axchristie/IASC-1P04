@@ -4,7 +4,7 @@ This is the project for my videogame, tentatively titled *Adventure*.
 
 ## About the Game
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at lectus a tellus semper hendrerit vel at mi. Aliquam molestie urna mi, vel condimentum ligula auctor et. Suspendisse vitae sem ac nisi mattis elementum sit amet nec augue. Suspendisse nec nisl sodales, dictum leo at, malesuada est. Praesent at faucibus neque. Donec luctus ligula sit amet nisi blandit, commodo fringilla purus tempus. Nulla eget ligula consequat, aliquam est eu, viverra sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam at urna congue, tempor leo sed, ultrices ante.
+Black Hole Station is a short adventure game where players explore an abandoned space station. As they solve the mystery of the black hole station, players collect items, repair the broken black hole machine, and encounter a mysterious stranger who may be the key to it all. Inspired by Outer Wilds and Ted Chiang's "The Merchant and the Alchemist's Gate," Black Hole Station conveys the idea that helping others is the best way to help yourself.
 
 ## Documentation
 
@@ -12,17 +12,15 @@ Read my Twine Developer Document [here]().
 
 ## Weekly Builds
 
-Twine 1 [here](weekly_builds/Twine1.html)
+Twine 1 [here](weekly_builds/Tutorial1.html)
 
-Twine 2 [here](weekly_builds/Twine2.html)
+Twine 2 [here](weekly_builds/Tutorial2.html)
 
-Twine 3 [here](weekly_builds/Twine3.html)
+Twine 3 [here](weekly_builds/Tutorial3.html)
 
-Twine 4 [here]
+Twine 4 [here](weekly_builds/Tutorial4.html)
 
-Twine 5 [here]
-
-Twine 6 [here]
+Twine 5 [here](weekly_builds/Tutorial5.html)
 
 ## Prototype
 
@@ -30,4 +28,4 @@ Play the prototype [here]
 
 ## Final Build
 
-Play the final game [here]
+Play the final game [here](final_build/BlackHoleStation.html)
